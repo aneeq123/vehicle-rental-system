@@ -22,16 +22,19 @@ principles such as inheritance, polymorphism, interfaces, records, and sealed cl
 
 
 ## Project Structure
+```
 src/
 └── com/
-└── acme/
-└── rental/
-├── billing/
-├── catalog/
-├── exceptions/
-├── model/
-├── util/
-└── MainAppTester.java
+    └── acme/
+        └── rental/
+            ├── billing/
+            ├── catalog/
+            ├── exceptions/
+            ├── model/
+            ├── util/
+            └── MainAppTester.java
+```
+
 
 
  
