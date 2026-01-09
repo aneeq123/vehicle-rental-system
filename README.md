@@ -47,7 +47,7 @@ src/
 3. Run `MainAppTester`
 
 ## UML Diagram
-The UML class diagram is included as `UML.png` and shows:
+The UML class diagram is included as `docs/UML.png` and shows:
 - Vehicle inheritance hierarchy
 - Interfaces and associations
 - Service-layer relationships
